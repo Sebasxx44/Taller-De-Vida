@@ -144,4 +144,4 @@
 
 @endsection
 
-<script src="{{url('assets/js/scripts.js')}}"></script>
+<script src="https://taller-de-vida-production.up.railway.app//assets/js/scripts.js"></script>
