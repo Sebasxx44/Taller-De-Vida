@@ -276,6 +276,11 @@ class ActivityController extends Controller
         if (isset($region)) {
             $query->where('region', $region);
         }
+
+            // Filtrar actividades según el rol del usuario
+        if ($user->role_id === 2) {
+            $query->where('author_id', $user->id);
+        }
     
         $all = $query->get();
     
