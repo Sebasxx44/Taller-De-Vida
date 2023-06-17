@@ -15,7 +15,7 @@
             Haz clic en el siguiente enlace para crear una nueva contraseña:</p>
     
         <div class="ButtonResetPasswordLink" style="margin-bottom: 20px;">
-            <a href="http://127.0.0.1:8000/reset-password/{{ $token }}" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #ffffff; text-decoration: none; border-radius: 4px;">Restablecer Contraseña</a>
+            <a href="https://taller-de-vida-production.up.railway.app/reset-password/{{ $token }}" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #ffffff; text-decoration: none; border-radius: 4px;">Restablecer Contraseña</a>
         </div>
     
         <p style="margin-bottom: 10px;">Si no solicitaste el restablecimiento de contraseña, no te preocupes. Tu cuenta seguirá siendo segura y no se verá afectada. 
