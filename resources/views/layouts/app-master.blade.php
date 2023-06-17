@@ -11,10 +11,10 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800&display=swap" rel="stylesheet">
 
-    <link rel="https://tallerdevida-production.up.railway.app/assets/css/style.css">
-    <link rel="https://tallerdevida-production.up.railway.app/assets/css/grafics.css">
+    <link rel="stylesheet" href="https://taller-de-vida-production.up.railway.app//assets/css/style.css">
+    <link rel="stylesheet" href="https://taller-de-vida-production.up.railway.app//assets/css/grafics.css">
     <!-- Logo de la aplicación-->
-    <link rel="shortcut icon" href="https://tallerdevida-production.up.railway.app/assets/images/logo.png">
+    <link rel="stylesheet" href="shortcut icon" href="https://tallerdevida-production.up.railway.app/assets/images/logo.png">
 
     <title>Fundación</title>
 </head>
@@ -35,7 +35,7 @@
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 <script src="sweetalert2.all.min.js"></script>
 
-<script src="https://tallerdevida-production.up.railway.app/assets/js/scripts.js"></script>
-<script src="https://tallerdevida-production.up.railway.app/assets/js/grafics.js"></script>
+<script src="https://taller-de-vida-production.up.railway.app//assets/js/scripts.js"></script>
+<script src="https://taller-de-vida-production.up.railway.app//assets/js/grafics.js"></script>
 </body>
 </html>
